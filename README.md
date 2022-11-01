@@ -14,10 +14,12 @@
 
 #### How to initialize/run your application (where applicable)
 
-. `python3.10 scraper.py`
+ `python3.10 scraper.py`
 
 #### How to use your library (where applicable)
 
 you have to put your URL in the function and run it
 
 #### PR
+
+[PR1](https://github.com/MohdHanoti/web-scraper/pull/1)
